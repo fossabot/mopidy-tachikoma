@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpalfrey%2Fmopidy-tachikoma.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpalfrey%2Fmopidy-tachikoma?ref=badge_shield)
+
 Mopidy-Tachikoma
 ================
 
@@ -22,3 +24,7 @@ Installation
 3. Set "slack_token" in `mopidy.config` to the API Token it provides
 4. Restart Mopidy
 5. Add the bot to any channels you'd like it to tell you about new songs on
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpalfrey%2Fmopidy-tachikoma.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpalfrey%2Fmopidy-tachikoma?ref=badge_large)
